@@ -1,0 +1,27 @@
+sthread.lo: sthread.c /usr/include/stdc-predef.h ../include/config.h \
+ /usr/include/assert.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h ../include/sthread.h sthread_pthread.h \
+ sthread_user.h
+
+/usr/include/stdc-predef.h:
+
+../include/config.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+../include/sthread.h:
+
+sthread_pthread.h:
+
+sthread_user.h:

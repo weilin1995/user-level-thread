@@ -1,0 +1,8 @@
+sthread_switch.lo: sthread_switch.S /usr/include/stdc-predef.h \
+ ../include/config.h sthread_switch_x86_64.h
+
+/usr/include/stdc-predef.h:
+
+../include/config.h:
+
+sthread_switch_x86_64.h:
